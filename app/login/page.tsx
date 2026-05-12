@@ -24,8 +24,8 @@ export default function LoginPage() {
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: 16 }}>
       <div style={{ marginBottom: 32, textAlign: 'center' }}>
         <div style={{ fontSize: 36, marginBottom: 8 }}>📚</div>
-        <h1 style={{ fontSize: 24, fontWeight: 700, letterSpacing: '-0.02em' }}>Vocab Shikar</h1>
-        <p style={{ color: 'var(--muted)', fontSize: 14, marginTop: 4 }}>তোমার personal vocabulary app</p>
+        <h1 style={{ fontSize: 24, fontWeight: 700, letterSpacing: '-0.02em' }}>Listen to Learn Vocabulary</h1>
+        <p style={{ color: 'var(--muted)', fontSize: 14, marginTop: 4 }}>Your personal vocabulary app</p>
       </div>
 
       <div className="auth-card">
